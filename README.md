@@ -8,7 +8,7 @@ A Mobile Developer with a love for software development 👨‍💻. I enjoy aut
 - 📖 Always learning and improving.<br>
 - 📫 Reach me at: <a href= "mailto: mariosplenchidis@gmail.com"> mariosplenchidis@gmail.com</a><br>
 - 🌐 Connect with me on <a href="https://www.linkedin.com/in/mariosplen" target="_blank">LinkedIn</a><br>
-- 💬 Outside of coding, I enjoy working with Arduino 🤖, hiking 🏔️, and, of course, diving into new coding challenges 👨‍💻.<br>
+- 💬 Outside of coding, I enjoy working with Arduino 🤖, hiking 🏔️, and of course, diving into new coding challenges 👨‍💻.<br>
 
 
 
