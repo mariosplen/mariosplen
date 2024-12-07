@@ -1,14 +1,14 @@
 ### 👋 Hi I'm Marios Plenchidis,
 
-A Mobile Developer with an interest for software development in general 👨‍💻. I enjoy automation, building smart solutions, and exploring new technologies 🌐. I have a passion for engineering 🤖 and creating scalable, efficient applications 🚀
+I'm an App Developer currently working at Deloitte. I enjoy automation, building smart solutions, and exploring new technologies. I have a passion for engineering and creating scalable, efficient applications.
 
 - 👨‍💻 Working daily on <strong>Flutter</strong> Projects.<br>
 - 📱 Mobile Developer at <strong>Deloitte</strong>.<br>
 - 🔍 Enthusiastic about all aspects of software development.<br>
 - 📖 Always learning and improving.<br>
-- 📫 Reach me at: <a href= "mailto: mariosplenchidis@gmail.com"> mariosplenchidis@gmail.com</a><br>
-- 🌐 Connect with me on <a href="https://www.linkedin.com/in/mariosplen" target="_blank">LinkedIn</a><br>
-- 💬 Outside of coding, I enjoy creating DIY projects with Arduino 🤖, exploring the nature through hiking 🏔️, and of course, diving into new coding challenges 👨‍💻.<br>
+- 📫 Reach me at: <a href= "mailto: mariosplenchidis@gmail.com"> mariosplenchidis@gmail.com</a>.<br>
+- 🌐 Connect with me on <a href="https://www.linkedin.com/in/mariosplen" target="_blank">LinkedIn</a>.<br>
+- 🏔️ Outside of coding, I find joy in hiking and exploring the nature.<br>
 
 
 
