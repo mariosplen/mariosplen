@@ -19,6 +19,7 @@ I'm an App Developer currently working at Deloitte. I enjoy automation, building
   <img title="Dart" alt="Dart" src="svg/dart.svg" width="40" height="45" style="vertical-align:down; margin:4px"/>
   <img title="android" alt="android" src="svg/android.svg" width="50" height="45" style="vertical-align:down; margin:4px"/>
   <img title="Java" alt="Java" src="svg/java.svg" width="40" height="55" style="vertical-align:down; margin:4px"/>
+  <img title="JavaScript" alt="JavaScript" src="svg/js.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="Kotlin" alt="Kotlin" src="svg/kotlin.svg" width="40" height="45" style="vertical-align:down; margin:4px"/>
   <img title="Python" alt="Python" src="svg/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
   <img title="MySQL" alt="MySQL" src="svg/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
