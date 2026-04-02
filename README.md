@@ -27,8 +27,9 @@ I'm an App Developer currently working at Deloitte. I enjoy automation, building
   <img title="jira" alt="jira" src="svg/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
   <img title="Docker" alt="Docker" src="svg/docker.svg" width="40" height="45" style="vertical-align:down; margin:4px"/>
   <img title="linux" alt="linux" src="svg/linux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+</p>
 
   <a target="_blank" href="https://www.linkedin.com/in/mariosplen"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="https://mariosplen.github.io/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=generic-web&logoColor=white"></img></a>
   <a target="_blank" href="mailto:mariosplenchidis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://mariosplen.github.io/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=generic-web&logoColor=white"></img></a>
 </p>
